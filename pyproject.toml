@@ -7,7 +7,7 @@ authors = [{ name = "Sukhbinder Singh" }]
 license = { text = "Apache-2.0" }
 requires-python = ">3.10"
 classifiers = ["License :: OSI Approved :: Apache Software License"]
-dependencies = ["pywin32"]
+dependencies = ["pywin32", "dateutils"]
 
 [project.urls]
 Homepage = "https://github.com/sukhbinder/outlook-meetings"
