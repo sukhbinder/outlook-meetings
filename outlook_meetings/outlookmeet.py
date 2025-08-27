@@ -42,7 +42,8 @@ Next Steps
 """
 
 
-OUTLOOK_FORMAT = "%m/%d/%Y %H:%M"
+# OUTLOOK_FORMAT = "%m/%d/%Y %H:%M"
+OUTLOOK_FORMAT= “%Y-%m-%d %H:%M”
 
 
 def outlook_date(dt):
